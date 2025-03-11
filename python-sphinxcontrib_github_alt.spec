@@ -7,7 +7,7 @@ Summary:	Link to GitHub issues, pull requests, commits and users from Sphinx doc
 Summary(pl.UTF-8):	Odnośniki z dokumentacji Sphinksa do zgłoszeń, pull requestów, commitów i użytkowników na GitHubie
 Name:		python-sphinxcontrib_github_alt
 Version:	1.1
-Release:	7
+Release:	8
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib_github_alt/
